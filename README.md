@@ -72,7 +72,4 @@ Kami menyambut kontribusi Anda untuk mengembangkan **Sabit** lebih baik lagi.
    ```  
 5. Buat pull request.  
 
-## Lisensi  
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).  
 
-```  
